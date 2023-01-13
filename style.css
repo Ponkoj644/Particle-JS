@@ -16,7 +16,7 @@ body {
 /*Hero section CSS  */
 .hero-section {
   height: 100vh;
-  background-image: url(/img/hero-img\ .jpg);
+  background-image: url(./img/hero-img\ .jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
